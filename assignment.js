@@ -1,0 +1,20 @@
+var a = 5;
+console.log(a);
+a = 50;
+console.log(a);
+a += 50;
+console.log(a);
+a -= 5;
+console.log(a);
+a *= 25;
+console.log(a);
+a /= 10;
+console.log(a);
+a %= 5;
+console.log(a);
+var a = 5;
+++a;
+
+console.log(a);
+a--;
+console.log(a);
